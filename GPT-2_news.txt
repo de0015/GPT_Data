@@ -8,3 +8,30 @@ Formally known as Apple Business Essentials, the service includes 24/7 Apple sup
 The subscription service offers a three-tiered price plan, customizable to accommodate three devices at most and up to 2 terabytes of iCloud storage. Costs per user range between $2.99 and $12.99 a month.
 
 The announcement also ties into Apple’s push to sell more digital services to its customers, such as streaming video and music subscriptions.
+
+Meta, the company formerly known as Facebook, on Wednesday announced a partnership with Microsoft that will allow customers to integrate Meta’s Workplace enterprise social network software with Microsoft Teams.
+
+The integration gives customers access to Workplace content inside the Teams app. Likewise, users can view Teams video meetings in the Workplace app.
+
+
+The partnership between Meta and Microsoft brings together two rivals that compete in the enterprise communication software market. Workplace and Teams, however, do not have complete overlap. Whereas Workplace is focused on broad, companywide connections, Teams is focused on instantaneous communication between workers and their direct colleagues.
+
+This integration had been requested by customers including Vodafone and Accenture, Meta’s head of Workplace, Ujjwal Singh, told CNBC.
+
+“The way our customers end up using it is customers use the complementary features, not the competing features,” Singh said. “There are customers that are just Workplace shops, and then there are customers that are just Teams shops. This is really for those customers that use both.”
+
+
+
+Courtesy of Meta
+
+The partnership could prove most beneficial to Meta. Its Workplace service drastically lags behind its competitors in terms of users.
+
+Workplace announced in May it hit 7 million paid subscribers. Microsoft in July announced that its Teams product now has 250 million monthly active users. Salesforce-owned Slack no longer breaks out user figures, but the company said it had 12 million daily active users in September 2019, the last time it reported that statistic. Slack’s number of paying customers increased nearly 39% year over year in June 2021 to 169,000.
+
+In addition to Teams, Microsoft also offers Yammer, enterprise social network software that competes more directly with Meta’s Workplace service. In August, Microsoft said that Yammer’s usage had doubled year over year, with “tens of millions of monthly active users.”
+
+Although Workplace has integrations with Microsoft’s Office 365, SharePoint, Azure Active Directory, OneDrive and now Teams, there is no integration with Yammer, Singh said.
+
+“I would say we’re best in class around community, connection, people first and serving all employees,” Singh said. “Teams is arguably best in class around productivity, so this is really two best-in-class products coming together to solve an employee-experience problem.”
+
+
