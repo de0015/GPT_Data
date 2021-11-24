@@ -21,7 +21,6 @@ This integration had been requested by customers including Vodafone and Accentur
 “The way our customers end up using it is customers use the complementary features, not the competing features,” Singh said. “There are customers that are just Workplace shops, and then there are customers that are just Teams shops. This is really for those customers that use both.”
 
 
-
 Courtesy of Meta
 
 The partnership could prove most beneficial to Meta. Its Workplace service drastically lags behind its competitors in terms of users.
@@ -34,4 +33,60 @@ Although Workplace has integrations with Microsoft’s Office 365, SharePoint, A
 
 “I would say we’re best in class around community, connection, people first and serving all employees,” Singh said. “Teams is arguably best in class around productivity, so this is really two best-in-class products coming together to solve an employee-experience problem.”
 
+
+Meta, the parent company of Facebook, announced on Tuesday that it would place further limits on ad targeting on its platform, eliminating the ability to target based on users' interactions with content related to health, race and ethnicity, political affiliation, religion and sexual orientation.
+
+The changes will go into effect on Jan. 19, 2022, when it will no longer allow new ads to use those additional targeting tools. The change will be fully implemented by March 17, 2022, at which point ads that were already running using those targets will no longer be allowed.
+
+
+In a blog post, Meta acknowledged that the decision "may negatively impact some businesses and organizations," but the company argued that the move would limit "negative experiences for people in underrepresented groups."
+
+
+More broadly, Facebook has come under intense scrutiny for its failure to curb disinformation on its platforms, as well as for allowing companies to target users with discriminatory posts and ads. Some digital political strategists have criticized Facebook for failing to address organic disinformation on its platforms, instead going after political parties and campaigns that advertise with the company.
+
+Facebook's on-again, off-again approach to digital advertising before and after the 2020 election frustrated campaigns in both parties, who argued that Facebook's decision threatened their ability to reach millions of voters.
+
+Facebook — which drew billions of dollars in campaign spending during the 2020 cycle — instituted a political and issue-advocacy ad ban before and after the general election in an effort to prevent the spread of misinformation and disinformation. But the bans stretched well into the beginning of the Biden administration's tenure, and they were only lifted after several months of pressure from officials in both parties.
+
+
+Facebook has not had a good month in America, with dozens of media outlets publishing reams of damning internal documents, and growing calls for the social media giant to be broken up.
+
+But tech insiders who want a preview of the company's future aren't waiting for the next revelations to drop. They're watching Europe.
+
+POWERHOME SOLAR
+West Virginia: Do This Instead Of Buying Expensive Solar Panels (It's Genius)
+SPONSORED BY POWERHOME SOLAR
+See More
+
+Frances Haugen, the Facebook whistleblower whose documents have fueled most of the recent coverage, sat before British lawmakers in London last week and offered a game plan for limiting the company’s power.
+
+
+The United Kingdom was just her first stop. Haugen is scheduled next to talk to European Union lawmakers in Brussels, and then officials in Paris. And unlike in America, where Congress and regulators struggle to rein in the biggest platforms, Facebook is already under mounting pressure from a slew of online content rules coming down the pike across the Old World.
+
+They’re enough to keep Mark Zuckerberg up at night.
+
+Six things to know about the Facebook antitrust drama
+SharePlay Video
+For tech companies like Facebook, Europe — whose more than 450 million people represent roughly a quarter, or $20 billion, of the social network’s yearly profits — is at the vanguard of pushing for aggressive new laws to rein in the excesses of the digital world. Its regulators, too, have more than a decade of experience in fining some of Silicon Valley’s biggest names for both antitrust and privacy abuses.
+
+Advertisement
+
+POWERHOME SOLAR
+West Virginia: Do This Instead Of Buying Expensive Solar Panels (It's Genius)
+SPONSORED BY POWERHOME SOLAR
+See More
+
+
+In Brussels, officials are finishing rules that require Facebook to carry out regular independent audits of how they’re handling potentially harmful content. They also will force the company to open up its closely guarded algorithms used to promote material in people’s feeds to regulators. If the firm fail to comply, the tech giant —which recently changed its name to Meta as part of a rebranding effort — could face fines of up to six percent of its annual revenue, or tens of billions of dollars.
+
+In Berlin and London, similar proposals are either on the books or making their way through national parliaments after European policymakers have spent years hammering out the details about how the world’s largest social media company should be held more accountable for what is posted online.
+
+Here’s a closer look at why Facebook should be more worried about Europe than the United States.
+
+Content laws are coming, and coming soon.
+Unlike the ongoing partisan divide in Washington over regulating social media, politicians in the European Union and United Kingdom are already on the same page and they are about to make Facebook do something it has long tried to avoid: take legal responsibility for content.
+
+Under proposals expected to be completed by next year, the EU wants to overhaul its existing hands-off approach to Facebook and others via its so-called Digital Services Act. Those rules will make it mandatory for tech companies to immediately remove illegal content, such as hate speech, or face hefty fines. For politically divisive or other legal but harmful material, such as posts sowing distrust in a country’s election, social media platforms must also show outside auditors and regulators how they are stopping that content from spreading like wildfire.
+
+Across the English Channel, British lawmakers are going one step further. In rules, known as the Online Safety Bill, to be voted on by the end of 2021, the likes of Facebook will be held to a so-called duty of care to protect their users from both illegal and legal, but harmful, content — a world first. Penalties for inaction include fines totaling 10 percent of a company’s annual revenue and potential prison sentences for social media executives.
 
